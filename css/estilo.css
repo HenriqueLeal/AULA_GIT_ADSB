@@ -5,3 +5,9 @@ h1{
 table{
     background-color: purple;
 }
+
+h2{
+    color: blue;
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
